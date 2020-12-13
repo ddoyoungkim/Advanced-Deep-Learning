@@ -11,9 +11,8 @@ However, there is no general measure which can handle multiple aspects at the sa
 ## Data Sets
 |  City  | # trajectory  | Link         |
 | :----: | :-----------: | :----------: |
-| Porto  | 1.7 Milllion  | [link](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data)     |
-|             Will be updated           |
-At this point, we use Porto dataset only, and other trajectory datasets will be updated soon.
+| *Porto*  | 1.7 Milllion  | [link](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data) |
+At this point, we use *Porto* dataset only, but other trajectory datasets will be updated soon.
 
 ## Installation
 Requirements
@@ -25,7 +24,7 @@ Requirements
   - Source Code:
     - Download all codes (*\*.py*) and put them in the same folder
   - Datasets:
-    - Download PORTO dataset from [link](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data)
+    - Download *PORTO* dataset from [link](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data)
     - Open terminal in the same folder
     - You can build region map and road network using `preprocessing.py` and `GraphRegion.py`
     - You can make k-hop sub-graphs using `create_trainval_edit.py`
