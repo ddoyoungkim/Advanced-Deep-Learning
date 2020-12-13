@@ -3,7 +3,7 @@
 ## About
 The paper is for KAIST AI602 term paper.
 
-Source code and datasets of the paper [GTR:General trajectory representation using GNN and self-supervised learning](www.naver.com)
+Source code and datasets of the paper [GTR:General trajectory representation using GNN and self-supervised learning](https://openreview.net/forum?id=fJ98BQQKQQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dkaist.ac.kr%2FKAIST%2FFall2020%2FAI602%2FAuthors%23your-submissions))
 
 Since the preprocessed datasets are too large to uploade on github, we will give you a intruction to preprocess the datasets from the scratch.
 
