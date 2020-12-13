@@ -1,4 +1,4 @@
-# General trajectory representation \n using GNN and self-supervised learning
+# General trajectory representation using GNN and self-supervised learning
 
 ## About
 
