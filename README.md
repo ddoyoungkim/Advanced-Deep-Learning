@@ -5,7 +5,7 @@ The paper is for KAIST AI602 term project.
 
 Source code and datasets of the paper [GTR:General trajectory representation using GNN and self-supervised learning](https://openreview.net/forum?id=fJ98BQQKQQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dkaist.ac.kr%2FKAIST%2FFall2020%2FAI602%2FAuthors%23your-submissions))
 
-Since the preprocessed datasets are too large to uploade on github, we will give you a intruction to preprocess the datasets from the scratch.
+Since the preprocessed datasets are too large to upload on github, we will give you intructions to preprocess the datasets from the scratch.
 
 ## Overview
 Trajectory includes various aspects of information which are transiting distribution, speed, etc. The diverse aspects are often incompatible, simultaneously making two trajectories similar from one aspect and dissimilar from another aspect. It is supported by the fact that trajectory similarities are defined by various perspectives and each trajectory application uses different similarity measure.
